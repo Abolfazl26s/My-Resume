@@ -1,0 +1,43 @@
+.skill {
+    background: url(https://png2.cleanpng.com/sh/0ed40f736a1ecb15fc8e85353ccdac5d/L0KzQYm3UcI2N5lsiZH0aYP2gLBuTgdmal5pfehubHBzfbb1lL1zbaR1h9D8aYboPcjsgr1lbaRuf9C2bHBqf37qkvVifJp7fZ9taYPrdcS0kPlodZZzjJ88ZD3mf773lgRmel46eagEZUO2QIqAWfI2O181UKQ7MUmzQYK8UcY5QGk9UKIBMkGxgLBu/kisspng-web-development-responsive-web-design-logo-creative-dishes-pigment-3d-computer-5a69e330979b53.082219011516888880621.png)
+      no-repeat center center fixed;
+  }
+  
+  .row.heading h2 {
+    color: #fff;
+    font-size: 52.52px;
+    line-height: 95px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 40px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  
+  .padding-lg {
+    display: block;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  
+  #skillTitle {
+    width: 100%;
+    font-size:100px;
+    font-weight: 800;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    text-decoration: rgb(43, 255, 54);
+    background: -webkit-linear-gradient(rgb(43, 255, 54), rgb(49, 24, 163));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .flex-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0;
+  }

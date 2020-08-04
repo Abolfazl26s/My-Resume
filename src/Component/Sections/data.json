@@ -1,0 +1,87 @@
+{
+    "avatar": "https://i.ibb.co/X5w82zW/IMG-3609.png",
+    "title": "Hello I'm Abolfazl Saeidabadi",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast",
+    "background": "https://i.ibb.co/JptRtDs/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5a.png",
+    "links": {
+        "github": "https://github.com/Abolfazl26s",
+        "instagram": "https://www.instagram.com/abolfazl21s/",
+        "stackoverflow": "https://stackoverflow.com/story/abolfazl26s",
+        "youtube": "https://youtube.com/"
+    },
+    "sections": [{
+            "title": "About Me",
+            "items": [{
+                    "type": "p",
+                    "content": "I Love to Learn."
+                },
+                {
+                    "type": "p",
+                    "content": "I believe in self-learning."
+                },
+                {
+                    "type": "p",
+                    "content": "when my dev senses kick-in I build presumably awesome stuff."
+                },
+                {
+                    "type": "p",
+                    "content": "I say close to the community and try to keep tabs with the pace at which the web is evolving. I also Like to Blog what I Learn."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [{
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/Z2c8Fm1/file-type-html-icon-130541.png",
+                        "title": "Html"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/3yJM4BZ/css-18892.png",
+                        "title": "Css"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/1z3b5sd/file-type-light-js-icon-130458.png",
+                        "title": "javaScript"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/PQLpH7f/react-original-logo-icon-146374.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/85RVLWg/bootstrap-plain-logo-icon-146619.png",
+                        "title": "Bootstrap"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/xKnS9Tn/csharp-original-logo-icon-146578.png",
+                        "title": "CSharp"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-3%2F504%2FASP.Net-256.png&f=1&nofb=1",
+                        "title": ".Net Core"
+                    }
+                }
+            ]
+        }
+    ],
+    "Icons": "https://icon-icons.com/icons2/10/PNG/64/arrowdown_flech_1539.png"
+}

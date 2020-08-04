@@ -1,0 +1,43 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .Card h2 a{
+    color: rgb(17, 20, 184) !important;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px 0;
+  }
+  
+  .practice-area .inner img {
+    display: inline-block;
+  }
+  
+  .our-webcoderskull .cnt-block {
+    width: 100%;
+    background-color: azure;
+    padding: 30px 20px;
+    text-align: center;
+    border: 2px solid #d5d5d5;
+    margin: 0 0 28px;
+  }
+  
+  .our-webcoderskull .cnt-block figure {
+    width: 148px;
+    height: 148px;
+    display: inline-block;
+    margin-bottom: 15px;
+  }
+  
+  .our-webcoderskull .cnt-block img {
+    width: 148px;
+    height: 148px;
+  }
+  
+  .our-webcoderskull .cnt-block a:hover{
+    color: red !important;
+    text-decoration: none;
+    text-shadow: 2px 2px 5px #f1bb08;
+  }

@@ -1,0 +1,41 @@
+.First {
+    text-align: center;
+    z-index: 2;
+    position: relative;
+    width: 100%;
+  }
+  
+  .avatar{
+    margin: 10px auto;
+    width: 256px;
+    border-radius: 100%;
+  }
+
+  .icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .icon {
+    margin: 10px;
+    height: 40vmin;
+    pointer-events: pointer;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .icon {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+  
+    to {
+      transform: rotate(360deg);
+    }
+  }
